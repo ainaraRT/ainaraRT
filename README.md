@@ -35,6 +35,7 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![3ds Max](https://img.shields.io/static/v1?style=for-the-badge&message=3ds+Max&color=29a329&logo=Autodesk&logoColor=FFFFFF&label=)
+![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+xd&color=cc0066&logo=Adobe+XD&logoColor=FFFFFF&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=ff6666&logo=Figma&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=F05032&logo=Postman&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
