@@ -5,10 +5,8 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 <a href="mailto:ainaretework@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GMAIL&color=DD0031&logo=Gmail&logoColor=FFFFFF&label="></img></a>
 <a href="https://t.me/ainarete" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=4d88ff&logo=Telegram&logoColor=FFFFFF&label="></img></a>
 <a href="https://www.linkedin.com/in/ainara-ramos-816658227/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=007396&logo=Linkedin&logoColor=FFFFFF&label"></img></a>
-<a href="https://www.instagram.com/ainarete/?hl=es"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=cc0066&logo=INstagram&logoColor=FFFFFF&label"></img></a>
-<a href="https://twitter.com/ainaretee" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=2496ED&logo=Twitter&logoColor=FFFFFF&label"></img></a>
 
-### 🖱️ Tools I Use
+### 🖱️ Language I Use
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -27,11 +25,10 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=993399&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=cc2900&logo=Oracle&logoColor=FFFFFF&label=)
 ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=e62e00&logo=Apache&logoColor=FFFFFF&label=)
 
-#### 💻 Developing
+#### 💻 Software
 ![Eclipse](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse&color=00004d&logo=Eclipse&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
@@ -39,6 +36,7 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=ff6666&logo=Figma&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=F05032&logo=Postman&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 #### 📈 My GitHub Stats:
 
