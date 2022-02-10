@@ -6,7 +6,7 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 <a href="https://t.me/ainarete" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=4d88ff&logo=Telegram&logoColor=FFFFFF&label="></img></a>
 <a href="https://www.linkedin.com/in/ainara-ramos-816658227/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=007396&logo=Linkedin&logoColor=FFFFFF&label"></img></a>
 
-### 🖱️ Language I Use
+### 🖱️ Language I Know
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
