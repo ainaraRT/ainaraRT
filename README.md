@@ -22,8 +22,6 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
-![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=993399&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=cc2900&logo=Oracle&logoColor=FFFFFF&label=)
@@ -40,6 +38,8 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+xd&color=cc0066&logo=Adobe+XD&logoColor=FFFFFF&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=ff6666&logo=Figma&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=F05032&logo=Postman&logoColor=FFFFFF&label=)
+![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 #### 📈 My GitHub Stats:
