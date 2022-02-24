@@ -40,6 +40,7 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=F05032&logo=Postman&logoColor=FFFFFF&label=)
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=222222&logo=GitHub&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 #### 📈 My GitHub Stats:
