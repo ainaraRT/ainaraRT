@@ -28,11 +28,12 @@ I'm a student of cross-platform applications. I love mobile applications and fro
 ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=e62e00&logo=Apache&logoColor=FFFFFF&label=)
 
 #### 💻 Software
-![Eclipse](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse&color=00004d&logo=Eclipse&logoColor=FFFFFF&label=)
+![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=b35900&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=007ACC&logo=Xcode&logoColor=FFFFFF&label=)
+![Eclipse](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse&color=00004d&logo=Eclipse&logoColor=FFFFFF&label=)
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![3ds Max](https://img.shields.io/static/v1?style=for-the-badge&message=3ds+Max&color=29a329&logo=Autodesk&logoColor=FFFFFF&label=)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+xd&color=cc0066&logo=Adobe+XD&logoColor=FFFFFF&label=)
