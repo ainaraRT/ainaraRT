@@ -1,6 +1,8 @@
 # Hi there, I'm <a src="https://github.com/ainaraRT">Ainara</a> 👋
 
-I'm a student of cross-platform applications. I love mobile applications and frontend development.
+I'm a student of cross-platform applications. I love frontend development.
+[My Curriculum Vitae](https://drive.google.com/file/d/1Y--MI2avlqCqdkPFYVFJ6WWJLfKLXUBQ/view?usp=sharing)
+<br>
 
 <a href="mailto:ainaretework@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GMAIL&color=DD0031&logo=Gmail&logoColor=FFFFFF&label="></img></a>
 <a href="https://t.me/ainarete" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=4d88ff&logo=Telegram&logoColor=FFFFFF&label="></img></a>
