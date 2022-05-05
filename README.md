@@ -9,8 +9,6 @@ I'm a student of cross-platform applications. I love frontend development.
 <a href="ainaretework@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GMAIL&color=DD0031&logo=Gmail&logoColor=FFFFFF&label="></img></a>
 <a href="https://t.me/ainarete" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=4d88ff&logo=Telegram&logoColor=FFFFFF&label="></img></a>
 <a href="https://www.linkedin.com/in/ainara-ramos-816658227/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=007396&logo=Linkedin&logoColor=FFFFFF&label"></img></a>
-<a href="https://www.instagram.com/ainarete/?hl=es"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=cc0066&logo=INstagram&logoColor=FFFFFF&label"></img></a>
-<a href="https://twitter.com/ainaretee" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=2496ED&logo=Twitter&logoColor=FFFFFF&label"></img></a>
 
 ### 🖱️ Language I Know
 
@@ -29,7 +27,6 @@ I'm a student of cross-platform applications. I love frontend development.
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
-![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=993399&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=cc2900&logo=Oracle&logoColor=FFFFFF&label=)
@@ -49,6 +46,7 @@ I'm a student of cross-platform applications. I love frontend development.
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+xd&color=cc0066&logo=Adobe+XD&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=222222&logo=GitHub&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 
 #### 📈 My GitHub Stats:
 
