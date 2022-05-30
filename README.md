@@ -2,7 +2,7 @@
 
 I'm a student of cross-platform applications. I love frontend development.
 
-[My Curriculum Vitae](https://drive.google.com/file/d/1Y--MI2avlqCqdkPFYVFJ6WWJLfKLXUBQ/view?usp=sharing)
+[My Curriculum Vitae](https://drive.google.com/file/d/1-BnjeTIu8u4Y6NEvsdML5UYzvfB4ta_B/view?usp=sharing)
 <br>
 
 
